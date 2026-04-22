@@ -2,6 +2,8 @@
 
 Music Explorer is a song recommendation application/tool. Input a song, and the AI will suggest a list of similar tracks based on a dataset.
 
+You can find the download link for the .exe file over in the releases section.
+
 ---
 
 Key Features:
