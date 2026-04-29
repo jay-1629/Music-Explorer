@@ -4,6 +4,8 @@ Music Explorer is a song recommendation application/tool. Input a song, and the 
 
 You can find the download link for the .exe file over in the releases section.
 
+Here is a video presentation of the idea and workings of the application as well as a demo: [Video](https://youtu.be/PRlVQ9Ndxyo)
+
 ---
 
 Key Features:
